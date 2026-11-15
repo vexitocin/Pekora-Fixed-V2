@@ -6,7 +6,7 @@
 <p align="center">I do not own the rights to Pekora, as Supra (🐀) and Chloe (⚠️) owned it before it shutdown in late 2025 and became Korone which shutdown earlier this year (2026). LOL!</p>
 <p align="center">This source code was originally leaked by Tooble, and recovered as I had it saved to my Hard Drive.</p>
 <p align="center">This is completely safe, but I do not recommend re-hosting this unless you know what your doing and know a thing or two about the ECS codebase.</p>
-<p align="center">js use some better shit this SUCKS ASS.</p>
+<p align="center">just use some better shit this SUCKS ASS.</p>
 <div align="center">
     
 ## Prerequistes 
