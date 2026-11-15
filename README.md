@@ -9,6 +9,7 @@
 <div align="center">
     
 ## Prerequistes 
+</div>
 - Windows 10
 - Knowledge
 - Time
@@ -19,7 +20,7 @@
 - <a href="https://go.dev/dl/go1.20.6.windows-amd64.msi">Go</a>, *for asset validation*
 - <a href="https://github.com/redis-windows/redis-windows/releases/download/8.6.2/Redis-8.6.2-Windows-x64-cygwin-with-Service.zip">Redis Server</a> *important*
 
-</div>
+
 
 ## Note
 imo this source is not the best, so I suggest making your own, or using a better source.
